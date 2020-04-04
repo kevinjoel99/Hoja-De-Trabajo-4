@@ -1,0 +1,39 @@
+Fumigacion[1]
+TIPO DE SERVICIO: 2
+NUMERO DE HECTAREAS: 360
+Monto FUMIGACION[1]:6480
+
+Cantidad de Servicios MALA HIERBA: 0
+Cantidad de Servicios LANGOSTAS: 1
+Cantidad de Servicios GUSANOS: 0
+Cantidad de Servicios TODO LO ANTERIOR: 0
+El tipo con mayor demanda es: 0
+El Monto total es: 6480
+
+
+Fumigacion[2]
+TIPO DE SERVICIO: 3
+NUMERO DE HECTAREAS: 520
+Monto FUMIGACION[2]:13338
+
+Cantidad de Servicios MALA HIERBA: 0
+Cantidad de Servicios LANGOSTAS: 1
+Cantidad de Servicios GUSANOS: 1
+Cantidad de Servicios TODO LO ANTERIOR: 0
+El tipo con mayor demanda es: 0
+El Monto total es: 19818
+
+
+Fumigacion[1]
+TIPO DE SERVICIO: 4
+NUMERO DE HECTAREAS: 580
+Monto FUMIGACION[1]:24795
+
+Cantidad de Servicios MALA HIERBA: 0
+Cantidad de Servicios LANGOSTAS: 0
+Cantidad de Servicios GUSANOS: 0
+Cantidad de Servicios TODO LO ANTERIOR: 0
+El tipo con mayor demanda es: 0
+El Monto total es: 24795
+
+

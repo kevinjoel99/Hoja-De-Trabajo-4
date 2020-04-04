@@ -1,0 +1,54 @@
+Edad Persona[1]:18
+Edad Persona[2]:52
+Edad Persona[3]:45
+Edad Persona[4]:63
+Edad Persona[5]:89
+Edad Persona[6]:78
+Edad Persona[7]:52
+Edad Persona[8]:16
+Edad Persona[9]:19
+Edad Persona[10]:85
+Edad Persona[11]:63
+Edad Persona[12]:52
+Edad Persona[13]:41
+Edad Persona[14]:25
+Edad Persona[15]:28
+Edad Persona[16]:7
+Edad Persona[17]:41
+Edad Persona[18]:21
+Edad Persona[19]:26
+Edad Persona[20]:63
+Edad Persona[21]:54
+Edad Persona[22]:58
+Edad Persona[23]:75
+Edad Persona[24]:41
+Edad Persona[25]:20
+Edad Persona[26]:36
+Edad Persona[27]:60
+Edad Persona[28]:50
+Edad Persona[29]:42
+Edad Persona[30]:52
+Edad Persona[31]:63
+Edad Persona[32]:65
+Edad Persona[33]:42
+Edad Persona[34]:12
+Edad Persona[35]:15
+Edad Persona[36]:19
+Edad Persona[37]:82
+Edad Persona[38]:63
+Edad Persona[39]:37
+Edad Persona[40]:29
+Edad Persona[41]:80
+Edad Persona[42]:36
+Edad Persona[43]:50
+Edad Persona[44]:40
+Edad Persona[45]:58
+Edad Persona[46]:63
+Edad Persona[47]:45
+Edad Persona[48]:67
+Edad Persona[49]:23
+Edad Persona[50]:32
+Porcentaje ninos: 4%
+Porcentaje jovenes: 24%
+Porcentaje adultos: 42%
+Porcentaje aultos mayores: 30%
